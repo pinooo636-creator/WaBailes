@@ -98,5 +98,8 @@
   "bugs": {
     "url": "https://github.com/pinooo636-creator/WaBailes/issues"
   },
-  "type": "module"
+  "type": "module",
+  "exports": {
+    ".": "./lib/index.js"
+  }
 }
